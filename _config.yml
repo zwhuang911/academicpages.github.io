@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "边缘计算与边缘智能研讨小组"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publications组会文件
     values:
       layout: single
       author_profile: true
